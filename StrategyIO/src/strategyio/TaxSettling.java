@@ -10,14 +10,16 @@ package strategyio;
  * @author ShirkeJR
  */
 public class TaxSettling {
-    TypeOfPersonStrategy typOfPerson = null;
+    
+    private TaxSettling inner = null;
+    private TaxSettling() {};
+  
+    public TaxSettling getInstance(){
+        if(inner == null)
+            return new TaxSettling();
+        else
+            return inner;
+    }
 
-    public TaxSettling() {
-        System.out.println("Tax Selling ACTIVATED");
-    }
-     
-    public void taxSelling(float value, boolean parter){
-        
-    }
 
 }
