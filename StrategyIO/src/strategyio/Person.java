@@ -10,14 +10,34 @@ public class Person {
     private float value;
     private boolean partner;
     private int kids;
+    private float rentForHouse;
+    TypeOfPersonStrategy typeOfPerson;
     
-    public Person(String name, float value, boolean partner, int kids) {
+    public Person(String name, float value, boolean partner, int kids, float rentForHouse, TypeOfPersonStrategy typOfPerson) {
         this.name = name;
         this.value = value;
         this.partner = partner;
         this.kids = kids;
+        this.rentForHouse = rentForHouse;
+        this.typeOfPerson = typOfPerson;
     }
   
+    public float calculateTax(){
+        float value = rentForHouse;
+        value += typeOfPerson.SettleTax(value);
+       
+        if(typeOfPerson instanceof IndividualPersonStrategy){
+            if(partner){
+                value += kids * 500;
+                return value > 20000f ? 20000f : value;
+            }        
+            return value > 10000f ? 10000f : value;
+        }
+        else
+            return value > 15000f ? 15000f : value;
+    }
+    
+    
     public String getName() {
         return name;
     }
