@@ -16,7 +16,7 @@ public class TaxSettling {
         System.out.println("Tax Selling ACTIVATED");
     }
      
-    public void taxSelling(float value, boolean parter = false, int kids = 0){
+    public void taxSelling(float value, boolean parter){
         
     }
 
