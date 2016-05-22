@@ -1,10 +1,14 @@
 
 package abstractfactoryio;
 
+import java.util.Vector;
+
 /**
  *
  * @author ShirkeJR
  */
-public interface Employee {
-    public void addNew();
+public abstract class Employee {
+    Vector<Integer> rooms;   
+    public abstract void addNew();
+    protected abstract void addRooms();
 }
