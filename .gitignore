@@ -3,5 +3,19 @@
 /DecoratorIO/nbproject/private/
 /DecoratorIO/build/
 /StrategyIO/nbproject/private/
+<<<<<<< HEAD
 /CommandIO/nbproject/private/
 /CommandIO/build/
+=======
+/StrategyIO/build/
+/AbstractFactoryIO/nbproject/private/
+/SingletonIO_CommandIO/nbproject/private/
+/SingletonIO_CommandIO/build/
+/WeatherStation/nbproject/private/
+/WeatherStation/build/
+/ObserveIO/WeatherStation/build/
+/ObserveIO/WeatherStation/nbproject/private/
+/DecoratorIO-ex/nbproject/private/
+/DecoratorIO-ex/build/
+/AbstractFactoryIO/build/
+>>>>>>> c9bc94b786757bb00047ffc1cbf0e792c3c7df8a
