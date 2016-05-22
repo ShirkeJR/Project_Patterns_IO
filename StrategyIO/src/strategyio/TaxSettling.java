@@ -20,6 +20,4 @@ public class TaxSettling {
         else
             return inner;
     }
-
-
 }
