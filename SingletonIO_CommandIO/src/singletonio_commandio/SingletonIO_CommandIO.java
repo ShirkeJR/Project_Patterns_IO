@@ -13,6 +13,7 @@ public class SingletonIO_CommandIO {
         System.out.println(s.getWartosc());
         s.setWartosc(5);
         System.out.println(s.getWartosc());
+        
     }
     
 }
