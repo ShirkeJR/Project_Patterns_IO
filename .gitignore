@@ -18,6 +18,13 @@
 /DecoratorIO-ex/nbproject/private/
 /DecoratorIO-ex/build/
 /AbstractFactoryIO/build/
+<<<<<<< HEAD
+/CompositeIO/nbproject/private/
+/CompositeIO/build/
+/CompositeIO/dist/
+/FlyweigthIO/nbproject/private/
+/FlyweigthIO/build/
+=======
 >>>>>>> c9bc94b786757bb00047ffc1cbf0e792c3c7df8a
 /JavaApplication26/nbproject/private/
 /Easy Patterns Programs/Strategy/nbproject/private/
@@ -41,9 +48,23 @@
 /Easy Patterns Programs/Factory/build/
 /Easy Patterns Programs/AbstractFactory/nbproject/private/
 /Easy Patterns Programs/AbstractFactory/build/
+<<<<<<< HEAD
 /Easy Patterns Programs/Decorator_test/nbproject/private/
 /Easy Patterns Programs/Decorator_test/build/
 /MementoIO/nbproject/private/
 /MementoIO/build/
 /VisitatorIO/nbproject/private/
 /VisitatorIO/build/
+=======
+>>>>>>> f01028eb073fd4326ee98138209a8d06e99c2442
+/ProxyIO/nbproject/private/
+/ProxyIO/build/
+/BridgeIO/nbproject/private/
+/BridgeIO/build/
+/MediatorIO/nbproject/private/
+/MediatorIO/build/
+/StateIO/nbproject/private/
+/StateIO/build/
+/ChainOfRensponsibiliteIO/nbproject/private/
+/ChainOfRensponsibiliteIO/build/
+>>>>>>> d6c34c2d32ff7af49588dc9f0feed7121ad8de74
