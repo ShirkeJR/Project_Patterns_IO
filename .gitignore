@@ -3,6 +3,10 @@
 /DecoratorIO/nbproject/private/
 /DecoratorIO/build/
 /StrategyIO/nbproject/private/
+<<<<<<< HEAD
+/CommandIO/nbproject/private/
+/CommandIO/build/
+=======
 /StrategyIO/build/
 /AbstractFactoryIO/nbproject/private/
 /SingletonIO_CommandIO/nbproject/private/
@@ -14,8 +18,44 @@
 /DecoratorIO-ex/nbproject/private/
 /DecoratorIO-ex/build/
 /AbstractFactoryIO/build/
+<<<<<<< HEAD
 /CompositeIO/nbproject/private/
 /CompositeIO/build/
 /CompositeIO/dist/
 /FlyweigthIO/nbproject/private/
 /FlyweigthIO/build/
+=======
+>>>>>>> c9bc94b786757bb00047ffc1cbf0e792c3c7df8a
+/JavaApplication26/nbproject/private/
+/Easy Patterns Programs/Strategy/nbproject/private/
+/Easy Patterns Programs/Strategy/build/
+/Easy Patterns Programs/Adapter/nbproject/private/
+/Easy Patterns Programs/Adapter/build/
+/Easy Patterns Programs/Decorator/nbproject/private/
+/Easy Patterns Programs/Decorator/build/
+/Easy Patterns Programs/Iterator/nbproject/private/
+/Easy Patterns Programs/Command/nbproject/private/
+/Easy Patterns Programs/Command/build/
+/Easy Patterns Programs/Observer/nbproject/private/
+/Easy Patterns Programs/Observer/build/
+/Easy Patterns Programs/Prototype/nbproject/private/
+/Easy Patterns Programs/Prototype/build/
+/Easy Patterns Programs/Fasade/nbproject/private/
+/Easy Patterns Programs/Fasade/build/
+/Easy Patterns Programs/Builder/nbproject/private/
+/Easy Patterns Programs/Builder/build/
+/Easy Patterns Programs/Factory/nbproject/private/
+/Easy Patterns Programs/Factory/build/
+/Easy Patterns Programs/AbstractFactory/nbproject/private/
+/Easy Patterns Programs/AbstractFactory/build/
+>>>>>>> f01028eb073fd4326ee98138209a8d06e99c2442
+/ProxyIO/nbproject/private/
+/ProxyIO/build/
+/BridgeIO/nbproject/private/
+/BridgeIO/build/
+/MediatorIO/nbproject/private/
+/MediatorIO/build/
+/StateIO/nbproject/private/
+/StateIO/build/
+/ChainOfRensponsibiliteIO/nbproject/private/
+/ChainOfRensponsibiliteIO/build/
