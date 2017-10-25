@@ -1,0 +1,3 @@
+interface Przedmiot{
+    double okreslWartosc();
+}
